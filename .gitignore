@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entorno virtual
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+
+# Caché de pytest
+.pytest_cache/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Directorios de build y distribuciones
+build/
+dist/
+*.egg-info/
+
+# Archivos de configuración de Streamlit (si usas)
+.streamlit/
+
+# Mac OS
+.DS_Store
+
+#docuemntos de pdf
+documents/
+
+#chroma index
+chroma_index/
+
+#secrets
+scripts/secret.py
+
