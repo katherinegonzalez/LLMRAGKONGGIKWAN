@@ -20,7 +20,7 @@ INDEX_PATH = "./chroma_index" # "./faiss_index"
 st.title("Asistente IA Kong Gi Kwan")
 
 # Code to work around documents loader from Streamlit and make it readable by langchain
-temp_file = "./documents/AcademiaKongGiKwan.pdf"
+temp_paths = ["./documents/AcademiaKongGiKwan.pdf", "./documents/ProgramaAscensoKongGiKwan.pdf"]
 
 # Function to load or create the vector database
 def load_or_create_vector_db():
@@ -38,8 +38,12 @@ def load_or_create_vector_db():
         vector_db = Chroma(persist_directory=INDEX_PATH, embedding_function=embeddings)
     else:
         # Load documents and split it into chunks for efficient retrieval.
-        chunks = load_document(temp_file)
-
+        chunks = []
+        for temp_file in temp_paths:
+            loaded_chunks = load_document(temp_file)
+            print(f"{temp_file} -> {len(loaded_chunks)} chunks")
+            chunks.extend(loaded_chunks)
+        
         # Message user that document is being processed with time emoji
         st.write("Processing document... :watch:")
 
