@@ -1,4 +1,4 @@
-# Asistente IA Kong Gi Kwan 👩‍⚕️
+# Asistente IA Kong Gi Kwan 🥋
 
 Asistente IA Kong Gi Kwan es una aplicación en la cual se ha mejorado un modelo de LLM con RAG para que cuente con información específica de Taekwondo y la Academia Kong Gi Kwan.
 
