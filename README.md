@@ -2,8 +2,12 @@
 
 Asistente IA Kong Gi Kwan es una aplicación en la cual se ha mejorado un modelo de LLM con RAG para que cuente con información específica de Taekwondo y la Academia Kong Gi Kwan.
 
-Este proyecto ha sido implementado como trabajo de grado para el examen de ascenso de grado a Cinturón Negro Segundo Dan en la Aacademia de Taekwondo Kong Gi Kwan. Si deseas ver el documento académico del proyecto haz cick en el siguiente link:
-[Artículo: Desarrollo de un Prototipo de Asistente de IA para la Academia de Taekwondo Kong Gi Kwan: Mejorando la Precisión de los LLMs con RAG]()
+Este proyecto ha sido implementado como trabajo de grado para el examen de ascenso de grado a Cinturón Negro Segundo Dan en la Aacademia de Taekwondo Kong Gi Kwan. 
+
+Se encuentra alojado en: https://asistenteiakonggikwan.streamlit.app/ 
+
+Si deseas ver el documento académico del proyecto haz cick en el siguiente link:
+[Artículo: Desarrollo de un Prototipo de Asistente de IA para la Academia de Taekwondo Kong Gi Kwan: Mejorando la Precisión de los LLMs con RAG](https://drive.google.com/file/d/1QmR0giS0yq8cP4-9AEWY3kGz_iK9tyag/view?usp=sharing)
 
 Dentro de este repositorio se encuentran la aplicación Web implementada con Python con la librería Streamlite.
 
@@ -37,6 +41,10 @@ Para instalar y configurar el proyecto en tu ambiente local, sigue los siguiente
     * `pip install langchain-community`
     * `pip install langchain-openai`
     * `pip install streamlit`
+
+    O simplemente:
+
+    * `pip install -r requirements.txt`
 
 ##  Ejecución del Proyecto 💻 
 
