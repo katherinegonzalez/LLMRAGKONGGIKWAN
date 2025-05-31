@@ -3,7 +3,7 @@ from langchain.chains import create_retrieval_chain
 from langchain_openai import ChatOpenAI
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
-from scripts.secret import OPENAI_KEY
+from utils.constants import OPENAI_KEY
 import streamlit as st
 from langchain.vectorstores import Chroma
 from scripts.vector_db import load_or_create_vector_db
