@@ -11,7 +11,7 @@ Dentro de este repositorio se encuentran la aplicación Web implementada con Pyt
 
 # Enlace a la aplicación 💻 
 
-[Enlace a la aplicación Asistente IA Kong Gi Kwan](https://asistenteiakonggikwan.streamlit.app/ )
+[Aplicación Asistente IA Kong Gi Kwan](https://asistenteiakonggikwan.streamlit.app/ )
 
 # Estructura de Carpetas 📂
 
