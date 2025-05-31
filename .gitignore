@@ -37,7 +37,7 @@ dist/
 .DS_Store
 
 #chroma index
-chroma_index/
+#chroma_index/
 
 #secrets
 scripts/secret.py
