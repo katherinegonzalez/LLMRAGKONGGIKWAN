@@ -44,4 +44,6 @@ chroma_index/
 
 #secrets
 scripts/secret.py
+.streamlit/secrets.toml
+
 
