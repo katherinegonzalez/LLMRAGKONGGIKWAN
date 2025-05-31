@@ -36,9 +36,6 @@ dist/
 # Mac OS
 .DS_Store
 
-#docuemntos de pdf
-documents/
-
 #chroma index
 chroma_index/
 
