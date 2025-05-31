@@ -4,3 +4,4 @@ langchain-openai
 streamlit
 pypdf
 chromadb
+protobuf==3.20.3

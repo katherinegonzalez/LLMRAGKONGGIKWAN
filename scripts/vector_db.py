@@ -2,7 +2,8 @@
 from langchain_openai import OpenAIEmbeddings
 from scripts.document_loader import load_document
 import os
-from langchain.vectorstores import Chroma
+# from langchain.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma 
 from utils.constants import INDEX_PATH, temp_paths
 from utils.constants import OPENAI_KEY
 
