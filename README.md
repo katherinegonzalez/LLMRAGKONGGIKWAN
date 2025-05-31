@@ -9,7 +9,7 @@ Si deseas ver el documento académico del proyecto haz cick en el siguiente link
 
 Dentro de este repositorio se encuentran la aplicación Web implementada con Python con la librería Streamlite.
 
-# Enlace a la aplicación 💻 
+# Enlace a la Aplicación 💻 
 
 [Aplicación Asistente IA Kong Gi Kwan](https://asistenteiakonggikwan.streamlit.app/ )
 
@@ -57,7 +57,7 @@ Para ejecutar el proyecto en tu ambiente local:
 3. Ve al terminal, en la raíz del proyecto.
 3. Ejecuta el comando `streamlit run main.py`, de esta manera se ejecuta el servidor en nuestro ambiente local, generalmente en el puerto `8050` - `http://127.0.0.1:8050/`
 
-## Github repository 📦
+## Github Repository 📦
 
 [Github Asistente IA Kong Gi Kwan](https://github.com/katherinegonzalez/LLMRAGKONGGIKWAN)
 
