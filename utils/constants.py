@@ -1,4 +1,7 @@
 from pathlib import Path
+import streamlit as st
+
+OPENAI_KEY = st.secrets["OPENAI_KEY"]
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 print("BASE_DIR: ", BASE_DIR)
