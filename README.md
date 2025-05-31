@@ -4,7 +4,7 @@ Asistente IA Kong Gi Kwan es una aplicación en la cual se ha mejorado un modelo
 
 Este proyecto ha sido implementado como trabajo de grado para el examen de ascenso de grado a Cinturón Negro Segundo Dan en la Aacademia de Taekwondo Kong Gi Kwan. 
 
-Se encuentra alojado en: https://asistenteiakonggikwan.streamlit.app/ 
+La app Asistente IA Kong Gi Kwan se encuentra en: https://asistenteiakonggikwan.streamlit.app/ 
 
 Si deseas ver el documento académico del proyecto haz cick en el siguiente link:
 [Artículo: Desarrollo de un Prototipo de Asistente de IA para la Academia de Taekwondo Kong Gi Kwan: Mejorando la Precisión de los LLMs con RAG](https://drive.google.com/file/d/1QmR0giS0yq8cP4-9AEWY3kGz_iK9tyag/view?usp=sharing)
